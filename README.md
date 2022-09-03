@@ -1,3 +1,6 @@
+## Hi there नमस्ते (Namaste)! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
+
 - 👋 Hi, I’m Mehedi Hasan :: Full Stack Webdeveloper
 - 🌱 I’m currently learning Laravel...
 - 💞️ I’m looking to collaborate on ...
