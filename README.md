@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <!--- just --->
 
 ![Laravel](https://img.shields.io/badge/-Laravel-00599C?style=flat-square&logo=Laravel)
-![VueJs](https://img.shields.io/badge/vuejs-2.x-brightgreen.svg?style=flat-square)
+![VueJs](https://img.shields.io/badge/vuejs-3.x-brightgreen.svg?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
