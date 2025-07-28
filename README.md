@@ -115,7 +115,6 @@
 - **Authentication Providers:** OAuth2, Social Login (Google, Facebook)  
 - **File Storage & CDN:** Cloudinary, AWS S3, Firebase Storage  
 - **Testing Tools:** PHPUnit, Jest, Pytest  
-- **Admin Panels:** Laravel Nova, Voyager, Filament  
 - **Monitoring Tools:** Grafana, Prometheus, Sentry, or custom log parsers  
 
 ---
