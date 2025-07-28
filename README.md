@@ -4,8 +4,6 @@
 ### 👋 I'm **Mehedi Hasan** — a passionate **Software Engineer** & Full Stack Web Developer
 
 🚀 Focused on building modern, scalable, and secure web applications  
-🎯 Currently exploring **Node.js**, **Python**, and **Cloud Infrastructure**  
-📫 Reach me at: [fnnaeem.cf](http://fnnaeem.cf)
 
 ---
 
