@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
 
-- 👋 Hi, I’m Mehedi Hasan :: Software Engineer
+- 👋 Hi, I’m Mehedi Hasan : Software Engineer
 ---
 
 ## ⚡ Technologies
@@ -69,7 +69,7 @@
 - Swagger / OpenAPI (API Documentation)  
 - Postman (API Testing)  
 - WebSocket (Raw, Socket.IO, Pusher)  
-- Message Queues: RabbitMQ, Apache Kafka  
+- Message Queues: RabbitMQ, Apache Kafka, NATS  
 - JWT Authentication  
 - Role-Based Access Control (RBAC)  
 - Modular Service Design  
@@ -81,7 +81,7 @@
 ## 🛢 Databases
 
 - **Relational:** MySQL, PostgreSQL, SQLite  
-- **NoSQL:** MongoDB, Firebase Firestore, Supabase  
+- **NoSQL:** MongoDB, Firebase, Firestore, Supabase  
 - **Caching / Real-time:** Redis  
 - **Search / Indexing:** Elasticsearch, OpenSearch  
 
