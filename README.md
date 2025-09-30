@@ -118,13 +118,15 @@
 - **Monitoring Tools:** Grafana, Prometheus, Sentry, or custom log parsers  
 
 ---
-
-## 📊 GitHub Stats
-
+### <h2><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="50"> Github Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fnnaeem1881&show_icons=true&count_private=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnnaeem1881&layout=compact&hide=TeX&theme=tokyonight" width="48%" />
-</p>
+  <img alt="imran :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=fnnaeem1881&theme=blue-green&show_icons=true&count_private=true&hide_border=true" />
+  <img alt="imran :: Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnnaeem1881&langs_count=10&theme=blue-green&layout=compact&hide=html" />
+  <img alt="imran :: Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=fnnaeem1881&theme=blue-green&hide_border=true" />
+</p> 
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fnnaeem1881&color=green" alt="Profile views" />
