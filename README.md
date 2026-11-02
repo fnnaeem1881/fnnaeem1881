@@ -1,21 +1,21 @@
 # Hi there! 👋 I'm Md. Mehedi Hasan
 
-### 🚀 Senior Software Engineer | Backend Team Lead
+###  Senior Software Engineer | Backend Team Lead
 
 I'm a Backend Engineer passionate about designing and building **scalable, high-performance, and reliable software systems**.
 
 With 5+ years of professional experience, I specialize in backend engineering, system architecture, API development, real-time applications, and production infrastructure.
 
-- 🚀 Building scalable backend applications and distributed systems.
-- ⚙️ Designing high-performance APIs and real-time communication systems.
-- 🏗️ Working with microservices, event-driven architecture, and database optimization.
-- ☁️ Managing Linux servers, deployments, and production infrastructure.
-- 👨‍💻 Experienced in building systems handling 50K+ daily requests.
-- 🌱 Continuously exploring system design, performance engineering, and open-source technologies.
+-  Building scalable backend applications and distributed systems.
+-  Designing high-performance APIs and real-time communication systems.
+-  Working with microservices, event-driven architecture, and database optimization.
+-  Managing Linux servers, deployments, and production infrastructure.
+-  Experienced in building systems handling 50K+ daily requests.
+-  Continuously exploring system design, performance engineering, and open-source technologies.
 
 ---
 
-## ⚡ Core Technologies
+##  Core Technologies
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
