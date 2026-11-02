@@ -1,133 +1,128 @@
-## Hi there! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
+# Hi there! 👋 I'm Md. Mehedi Hasan
 
-- 👋 Hi, I’m Mehedi Hasan : Software Engineer
----
+### 🚀 Senior Software Engineer | Backend Team Lead
 
-## ⚡ Technologies
+I'm a Backend Engineer passionate about designing and building **scalable, high-performance, and reliable software systems**.
 
-![Laravel](https://img.shields.io/badge/-Laravel-00599C?style=flat-square&logo=Laravel)
-![VueJs](https://img.shields.io/badge/vuejs-3.x-brightgreen.svg?style=flat-square)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat-square&logo=firebase)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=elasticsearch)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
-![Apache](https://img.shields.io/badge/-Apache-black?style=flat-square&logo=apache)
-![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
-![JetBrains](https://img.shields.io/badge/-JetBrains-black?style=flat-square&logo=jetbrains)
+With 5+ years of professional experience, I specialize in backend engineering, system architecture, API development, real-time applications, and production infrastructure.
+
+- 🚀 Building scalable backend applications and distributed systems.
+- ⚙️ Designing high-performance APIs and real-time communication systems.
+- 🏗️ Working with microservices, event-driven architecture, and database optimization.
+- ☁️ Managing Linux servers, deployments, and production infrastructure.
+- 👨‍💻 Experienced in building systems handling 50K+ daily requests.
+- 🌱 Continuously exploring system design, performance engineering, and open-source technologies.
 
 ---
 
-## 🧠 Programming Languages
+## ⚡ Core Technologies
 
-- PHP (Laravel, Native PHP, CodeIgniter)  
-- Go (Golang)  
-- JavaScript / TypeScript  
-- Python (FastAPI, Django)  
-- Java (Spring Boot)  
-- SQL (MySQL, PostgreSQL, SQLite)  
-- HTML, CSS  
-- Bash / Shell  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+## 🧠 Backend Engineering
 
-## ⚙️ Frameworks & Platforms
+- Go (Golang)
+- PHP (Laravel)
+- Deno (Oak, TypeScript)
+- Node.js
+- RESTful API Design
+- Microservices Architecture
+- Distributed Systems
+- Event-Driven Architecture
+- Multi-Tenant Applications
+- Authentication & Authorization (JWT, RBAC)
+- API Documentation (Swagger / OpenAPI)
 
-### 🔧 Backend
-- Laravel (PHP), CodeIgniter  
-- FastAPI, Django (Python)  
-- Node.js (Express), Deno.js (Oak, std/http)  
-- Spring Boot (Java)  
+## 🔗 Real-Time & Messaging Systems
 
-### 🎨 Frontend
-- React.js, Vue.js, Next.js  
-- Tailwind CSS, Bootstrap  
+- WebSockets
+- Socket.IO
+- Pusher
+- Redis Pub/Sub
+- RabbitMQ
+- Real-Time Location Tracking
+- Event-Driven Communication
+- Asynchronous Job Processing
 
----
+## 🛢️ Databases & Search
 
-## 🔗 API & Real-Time Systems
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 
-- RESTful API Design  
-- Swagger / OpenAPI (API Documentation)  
-- Postman (API Testing)  
-- WebSocket (Raw, Socket.IO, Pusher)  
-- Message Queues: RabbitMQ, Apache Kafka, NATS  
-- JWT Authentication  
-- Role-Based Access Control (RBAC)  
-- Modular Service Design  
-- Microservices Architecture  
-- Multi-tenancy Architecture  
+- MySQL & PostgreSQL
+- Redis (Caching, Pub/Sub)
+- MongoDB
+- OpenSearch & Elasticsearch
+- Database Design & Query Optimization
+- Indexing & Performance Tuning
 
----
+## 🐳 DevOps & Infrastructure
 
-## 🛢 Databases
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-- **Relational:** MySQL, PostgreSQL, SQLite  
-- **NoSQL:** MongoDB, Firebase, Firestore, Supabase  
-- **Caching / Real-time:** Redis  
-- **Search / Indexing:** Elasticsearch, OpenSearch  
+- Ubuntu / Linux Server Management
+- Docker & Docker Compose
+- Nginx & Reverse Proxy
+- PM2 & Process Management
+- CI/CD & Deployment Automation
+- SSL / HTTPS & Server Security
+- Monitoring & Log Management
+- Production Troubleshooting
+- Cloud Infrastructure & Deployment
 
----
+## 🧰 Tools & Development
 
-## 🐳 DevOps & Deployment
-
-- Docker, Docker Compose  
-- Kubernetes (K8s)  
-- CI/CD Pipelines  
-- PM2 (Process Manager)  
-- Crontab (Scheduled Tasks)  
-- Git (Version Control)  
-
----
-
-## 🖥 Servers & Infrastructure
-
-- Ubuntu / Linux Server Management  
-- Apache HTTP Server, Nginx, Tomcat Server (Java)  
-- SSL/HTTPS (Let’s Encrypt)  
-- UFW / iptables (Firewall)  
-- System Monitoring: `htop`, `top`, `netstat`  
-- Log Management: `journalctl`, custom logging strategies  
-- Deployment Automation: Shell Scripts, Git Hooks, PM2, Docker  
-
----
-
-## 🔹 Extras & Tools
-
-- **Authentication Providers:** OAuth2, Social Login (Google, Facebook)  
-- **File Storage & CDN:** Cloudinary, AWS S3, Firebase Storage  
-- **Testing Tools:** PHPUnit, Jest, Pytest  
-- **Monitoring Tools:** Grafana, Prometheus, Sentry, or custom log parsers  
+- Git & GitHub
+- GitLab
+- VS Code
+- JetBrains IDEs
+- Postman
+- Apidog
+- Swagger / OpenAPI
+- Linux CLI & Shell Scripting
 
 ---
-### <h2><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="50"> Github Stats</h2>
-<p align="center">
-  <img alt="imran :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=fnnaeem1881&theme=blue-green&show_icons=true&count_private=true&hide_border=true" />
-  <img alt="imran :: Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnnaeem1881&langs_count=10&theme=blue-green&layout=compact&hide=html" />
-  <img alt="imran :: Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=fnnaeem1881&theme=blue-green&hide_border=true" />
-</p> 
 
-
-
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fnnaeem1881&color=green" alt="Profile views" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=fnnaeem1881&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fnnaeem1881&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fnnaeem1881&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing backend engineering, system architecture, distributed systems, and innovative software projects.
+
+- 💼 **GitHub:** [@fnnaeem1881](https://github.com/fnnaeem1881)
+- 💼 **LinkedIn:** [Mehedi Hasan](https://www.linkedin.com/in/naeem1881/)
+- 📧 **Email:** [mehedinaeem66@gmail.com](mailto:mehedinaeem66@gmail.com)
+
+---
+
+<p align="center">
+  <i>"Building reliable systems, solving complex problems, and engineering for scale."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fnnaeem1881&color=blue&style=flat-square&label=Profile+Views" />
 </p>
